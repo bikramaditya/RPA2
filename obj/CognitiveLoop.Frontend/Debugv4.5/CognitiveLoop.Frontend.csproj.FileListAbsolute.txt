@@ -22,3 +22,51 @@ C:\Users\bipadh\Documents\RPA1.1\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveL
 C:\Users\bipadh\Documents\RPA1.1\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.csproj.CopyComplete
 C:\Users\bipadh\Documents\RPA1.1\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.exe
 C:\Users\bipadh\Documents\RPA1.1\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.pdb
+C:\Users\bipadh\Documents\RPA2\bin\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.exe
+C:\Users\bipadh\Documents\RPA2\bin\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.pdb
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.csprojAssemblyReference.cache
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\Images\VectorIcons.baml
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\App.baml
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\Pages\DesignerUserControlMain.g.cs
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\Pages\SaveProgressWindow.g.cs
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\TestContent.g.cs
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\TestWindow.g.cs
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\App.g.cs
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\GeneratedInternalTypeHelper.g.cs
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend_MarkupCompile.cache
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend_MarkupCompile.lref
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\Pages\DesignerUserControlMain.baml
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\Pages\SaveProgressWindow.baml
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\TestContent.baml
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\TestWindow.baml
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.g.resources
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\FluentTest.Properties.Resources.resources
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.csproj.GenerateResource.cache
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.csproj.CopyComplete
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.exe
+C:\Users\bipadh\Documents\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.pdb
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\bin\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.exe
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\bin\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.pdb
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.csprojAssemblyReference.cache
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\Images\VectorIcons.baml
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\App.baml
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\Pages\DesignerUserControlMain.g.cs
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\Pages\SaveProgressWindow.g.cs
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\TestContent.g.cs
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\TestWindow.g.cs
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\App.g.cs
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\GeneratedInternalTypeHelper.g.cs
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend_MarkupCompile.cache
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend_MarkupCompile.lref
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\Pages\DesignerUserControlMain.baml
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\Pages\SaveProgressWindow.baml
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\TestContent.baml
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\TestWindow.baml
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.g.resources
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\FluentTest.Properties.Resources.resources
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.csproj.GenerateResource.cache
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.csproj.CopyComplete
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.exe
+C:\Users\bipadh\OneDrive - Microsoft\RPA2\obj\CognitiveLoop.Frontend\Debugv4.5\CognitiveLoop.Frontend.pdb
