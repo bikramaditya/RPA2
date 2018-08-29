@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.7">
+    <id>StyleCop.Analyzers</id>
+    <version>1.0.2</version>
+    <title>StyleCop.Analyzers</title>
+    <authors>Sam Harwell et. al.</authors>
+    <owners>Sam Harwell</owners>
+    <licenseUrl>https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/1.0.2/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/DotNetAnalyzers/StyleCopAnalyzers</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <developmentDependency>true</developmentDependency>
+    <description>An implementation of StyleCop's rules using Roslyn analyzers and code fixes</description>
+    <releaseNotes>https://github.com/DotNetAnalyzers/StyleCopAnalyzers/releases/1.0.2</releaseNotes>
+    <copyright>Copyright Sam Harwell 2015</copyright>
+    <tags>StyleCop DotNetAnalyzers Roslyn Diagnostic Analyzer</tags>
+  </metadata>
+</package>

@@ -1,0 +1,110 @@
+﻿<Suits xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Suit>
+    <Name>Suit 1</Name>
+    <Description>Suit 1 Description</Description>
+    <Sequence>
+      <Name>Cooking</Name>
+      <Description>A description</Description>
+      <Step>
+        <Id lang="en">Everyday Italian1</Id>
+        <Name>Giada De Laurentiis1</Name>
+        <Conference>2005</Conference>
+        <Price>30.00</Price>
+      </Step>
+      <Step>
+        <Id lang="en">Everyday Italian2</Id>
+        <Name>Giada De Laurentiis2</Name>
+        <Conference>2005</Conference>
+        <Price>30.00</Price>
+      </Step>
+      <Step>
+        <Id lang="en">Everyday Italian3</Id>
+        <Name>Giada De Laurentiis3</Name>
+        <Conference>2005</Conference>
+        <Price>30.00</Price>
+      </Step>
+    </Sequence>
+    <Sequence>
+      <Name>Cooking</Name>
+      <Description>A description</Description>
+      <Step>
+        <Id lang="en">Everyday Italian4</Id>
+        <Name>Giada De Laurentiis4</Name>
+        <Conference>2005</Conference>
+        <Price>30.00</Price>
+      </Step>
+      <Step>
+        <Id lang="en">Everyday Italian5</Id>
+        <Name>Giada De Laurentiis5</Name>
+        <Conference>2005</Conference>
+        <Price>30.00</Price>
+      </Step>
+      <Step>
+        <Id lang="en">Everyday Italian6</Id>
+        <Name>Giada De Laurentiis6</Name>
+        <Conference>2005</Conference>
+        <Price>30.00</Price>
+      </Step>
+    </Sequence>
+    <App>
+      <Name>App 1</Name>
+      <Description>App 1 Description</Description>
+    </App>
+    <DataSource>
+      <Name>DataSource 1</Name>
+      <Description>DataSource 1 Description</Description>
+    </DataSource>
+    <Variable>
+      <Name>Variable 1</Name>
+      <Description>Variable 1 Description</Description>
+    </Variable>
+  </Suit>
+  <Suit>
+    <Name>Suit 2</Name>
+    <Description>Suit 2 Description</Description>
+    <Sequence>
+      <Name>Cooking</Name>
+      <Description>A description</Description>
+      <Step>
+        <Id lang="en">Everyday Italian7</Id>
+        <Name>Giada De Laurentiis7</Name>
+        <Conference>2005</Conference>
+        <Price>30.00</Price>
+      </Step>
+      <Step>
+        <Id lang="en">Everyday Italian8</Id>
+        <Name>Giada De Laurentiis8</Name>
+        <Conference>2005</Conference>
+        <Price>30.00</Price>
+      </Step>
+      <Step>
+        <Id lang="en">Everyday Italian9</Id>
+        <Name>Giada De Laurentiis9</Name>
+        <Conference>2005</Conference>
+        <Price>30.00</Price>
+      </Step>
+    </Sequence>
+    <Sequence>
+      <Name>Cooking</Name>
+      <Description>A description</Description>
+      <Step>
+        <Id lang="en">Everyday Italian11</Id>
+        <Name>Giada De Laurentiis11</Name>
+        <Conference>2005</Conference>
+        <Price>30.00</Price>
+      </Step>
+      <Step>
+        <Id lang="en">Everyday Italian22</Id>
+        <Name>Giada De Laurentiis22</Name>
+        <Conference>2005</Conference>
+        <Price>30.00</Price>
+      </Step>
+      <Step>
+        <Id lang="en">Everyday Italian33</Id>
+        <Name>Giada De Laurentiis33</Name>
+        <Conference>2005</Conference>
+        <Price>30.00</Price>
+      </Step>
+    </Sequence>
+  </Suit>
+</Suits>

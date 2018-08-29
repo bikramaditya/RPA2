@@ -1,0 +1,123 @@
+﻿<UserControl x:Class="FluentTest.Pages.DesignerUserControlMain"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FluentTest.Pages"
+             xmlns:models="clr-namespace:FluentTest.ViewModels.Entities"
+             xmlns:Fluent="urn:fluent-ribbon"
+             mc:Ignorable="d"
+             DataContext="{Binding}">
+    <UserControl.Resources>
+        <models:ROBOConverter x:Key="ROBOConverter"/>
+    </UserControl.Resources>
+    <UserControl.Background>
+        <SolidColorBrush Color="White"/>
+    </UserControl.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <GroupBox Header="Automation Suits" Margin="2,2,2,2" BorderBrush="LightGray" Foreground="Black">
+            <TreeView Name="TestCaseTreeView" 
+                  ItemsSource="{Binding Path=RoboViewModel.TestSuitCollection}" 
+                  Grid.Row="0" Grid.Column="0" 
+                  SelectedItemChanged="TestCaseTreeView_SelectedItemChanged"
+                  Padding="1,5,0,0"
+                  Background="Transparent"
+                  BorderBrush="Transparent">
+                <TreeView.ItemContainerStyle>
+                    <Style TargetType="{x:Type TreeViewItem}">
+                        <Setter Property="IsSelected" Value="{Binding IsSelected, Mode=TwoWay}" />
+                        <Setter Property="IsExpanded" Value="{Binding IsExpanded, Mode=TwoWay}" />
+                    </Style>
+                </TreeView.ItemContainerStyle>
+                <TreeView.ItemTemplate>
+                    <HierarchicalDataTemplate ItemsSource="{Binding AllCollection}">
+                        <StackPanel Orientation="Horizontal">
+                            <StackPanel.ContextMenu>
+                                <ContextMenu>
+                                    <MenuItem Header="Delete" Click="MenuItem_Suit_Delete_Click">
+                                        <MenuItem.Icon>
+                                            <Image Source="/Images/delete.png" ></Image>
+                                        </MenuItem.Icon>
+                                    </MenuItem>
+                                </ContextMenu>
+                            </StackPanel.ContextMenu>
+                            <Image Width="24" Height="24" Source="/Icons/suit.png" HorizontalAlignment="Left"  VerticalAlignment="Center"/>
+                            <TextBlock Margin="10,0,0,0" FontSize="13.5" Text="{Binding Name, Mode=TwoWay}" HorizontalAlignment="Left"  VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <!-- Team template -->
+                        <HierarchicalDataTemplate.ItemTemplate>
+                            <HierarchicalDataTemplate ItemsSource="{Binding TestStepCollection}">
+                                <StackPanel Orientation="Horizontal">
+                                    <StackPanel.ContextMenu>
+                                        <ContextMenu>
+                                            <MenuItem Header="Delete" Click="MenuItem_Seq_Delete_Click">
+                                                <MenuItem.Icon>
+                                                    <Image Source="/Images/delete.png" ></Image>
+                                                </MenuItem.Icon>
+                                            </MenuItem>
+                                        </ContextMenu>
+                                    </StackPanel.ContextMenu>
+                                    <Image Width="24" Height="24" Source="{Binding IconPath}" HorizontalAlignment="Left"  VerticalAlignment="Center"/>
+                                    <TextBlock Margin="10,0,0,0" FontSize="13" Text="{Binding Name, Mode=TwoWay}" HorizontalAlignment="Left"  VerticalAlignment="Center"/>
+                                </StackPanel>
+                                <!-- Player template -->
+                                <HierarchicalDataTemplate.ItemTemplate>
+                                    <DataTemplate >
+                                        <StackPanel Orientation="Horizontal">
+                                            <StackPanel.ContextMenu>
+                                                <ContextMenu>
+                                                    <MenuItem Header="Delete" Click="MenuItem_Step_Delete_Click">
+                                                        <MenuItem.Icon>
+                                                            <Image Source="/Images/delete.png" ></Image>
+                                                        </MenuItem.Icon>
+                                                    </MenuItem>
+                                                </ContextMenu>
+                                            </StackPanel.ContextMenu>
+                                            <Image Width="24" Height="24" Source="/Icons/step.png" HorizontalAlignment="Left"  VerticalAlignment="Center"/>
+                                            <TextBlock Margin="10,0,0,0" FontSize="12.5" Text="{Binding Name, Mode=TwoWay}" HorizontalAlignment="Left"  VerticalAlignment="Center"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </HierarchicalDataTemplate.ItemTemplate>
+                            </HierarchicalDataTemplate>
+                        </HierarchicalDataTemplate.ItemTemplate>
+                    </HierarchicalDataTemplate>
+                </TreeView.ItemTemplate>
+            </TreeView>
+        </GroupBox>
+        <StackPanel Grid.Row="0" Grid.Column="1">
+            <GroupBox Header="Selected element details will appear here" Margin="2,2,2,2" BorderBrush="LightGray" Padding="5" Foreground="Black">
+                <StackPanel Visibility="Collapsed" Name="detail_design_panel" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Margin="0,0,0,5">
+                    <Grid Name="designer_main_panel_grid">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                            <ColumnDefinition Width="3*"></ColumnDefinition>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                    <Grid Name="designer_child_panel_grid" Margin="0,10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                            <ColumnDefinition Width="3*"></ColumnDefinition>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+        <GroupBox Grid.Row="0" Grid.Column="2" Header="Contextual Help" Margin="2,2,2,2" BorderBrush="LightGray" Foreground="Black">
+            <Grid Name="designer_help_panel_grid" Margin="0,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</UserControl>

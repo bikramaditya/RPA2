@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>XamlColorSchemeGenerator</id>
+    <version>1.0.1</version>
+    <title>XamlColorSchemeGenerator</title>
+    <authors>batzen</authors>
+    <owners>batzen</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://raw.githubusercontent.com/batzen/XamlColorSchemeGenerator/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/batzen/XamlColorSchemeGenerator</projectUrl>
+    <description>Generates color scheme xaml files while replacing certain parts of a template file.</description>
+    <summary>Generates color scheme xaml files while replacing certain parts of a template file.</summary>
+    <releaseNotes></releaseNotes>
+    <tags>xaml color scheme generator</tags>
+  </metadata>
+</package>

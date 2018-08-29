@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Suits xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Suit>
+    <Id>1</Id>
+    <Name>Arizona Cardinals</Name>
+    <Conference>NFC West</Conference>
+  </Suit>
+  <Suit>
+    <Id>2</Id>
+    <Name>Atlanta Falcons</Name>
+    <Conference>NFC South</Conference>
+  </Suit>
+  <Suit>
+    <Id>3</Id>
+    <Name>Baltimore Ravens</Name>
+    <Conference>AFC North</Conference>
+  </Suit>
+  <Suit>
+    <Id>4</Id>
+    <Name>Buffalo Bik</Name>
+    <Conference>AFC East</Conference>
+  </Suit>
+  <Suit>
+    <Id>5</Id>
+    <Name>Carolina Pa</Name>
+    <Conference>NFC South</Conference>
+  </Suit>
+  <Suit>
+    <Id>6</Id>
+    <Name>Chicago Bears</Name>
+    <Conference>NFC North</Conference>
+  </Suit>
+  <Suit>
+    <Id>7</Id>
+    <Name>Cincinnati Bengals</Name>
+    <Conference>AFC North</Conference>
+  </Suit>
+  <Suit>
+    <Id>8</Id>
+    <Name>Cleveland Browns</Name>
+    <Conference>AFC North</Conference>
+  </Suit>
+  <Suit>
+    <Id>9</Id>
+    <Name>Dallas Cowboys</Name>
+    <Conference>NFC East</Conference>
+  </Suit>
+  <Suit>
+    <Id>10</Id>
+    <Name>Denver Broncos</Name>
+    <Conference>AFC West</Conference>
+  </Suit>
+  <Suit>
+    <Id>11</Id>
+    <Name>Detroit Lions</Name>
+    <Conference>NFC North</Conference>
+  </Suit>
+  <Suit>
+    <Id>12</Id>
+    <Name>Green Bay Packers</Name>
+    <Conference>NFC North</Conference>
+  </Suit>
+  <Suit>
+    <Id>13</Id>
+    <Name>Houston Texans</Name>
+    <Conference>AFC South</Conference>
+  </Suit>
+  <Suit>
+    <Id>14</Id>
+    <Name>Indianapolis Colts</Name>
+    <Conference>AFC South</Conference>
+  </Suit>
+  <Suit>
+    <Id>15</Id>
+    <Name>Jacksonville Jaguars</Name>
+    <Conference>AFC South</Conference>
+  </Suit>
+  <Suit>
+    <Id>16</Id>
+    <Name>Kansas City Chiefs</Name>
+    <Conference>AFC West</Conference>
+  </Suit>
+  <Suit>
+    <Id>17</Id>
+    <Name>Miami Dolphins</Name>
+    <Conference>AFC East</Conference>
+  </Suit>
+  <Suit>
+    <Id>18</Id>
+    <Name>Minnesota Vikings</Name>
+    <Conference>NFC North</Conference>
+  </Suit>
+  <Suit>
+    <Id>19</Id>
+    <Name>New England Patriots</Name>
+    <Conference>AFC East</Conference>
+  </Suit>
+  <Suit>
+    <Id>20</Id>
+    <Name>New Orleans Saints</Name>
+    <Conference>NFC South</Conference>
+  </Suit>
+  <Suit>
+    <Id>21</Id>
+    <Name>New York Giants</Name>
+    <Conference>NFC East</Conference>
+  </Suit>
+  <Suit>
+    <Id>22</Id>
+    <Name>New York Jets</Name>
+    <Conference>AFC East</Conference>
+  </Suit>
+  <Suit>
+    <Id>23</Id>
+    <Name>Oakland Raiders</Name>
+    <Conference>AFC West</Conference>
+  </Suit>
+  <Suit>
+    <Id>24</Id>
+    <Name>Philadelphia Eagles</Name>
+    <Conference>NFC East</Conference>
+  </Suit>
+  <Suit>
+    <Id>25</Id>
+    <Name>Pittsburgh Steelers</Name>
+    <Conference>AFC North</Conference>
+  </Suit>
+  <Suit>
+    <Id>26</Id>
+    <Name>San Diego Chargers</Name>
+    <Conference>AFC West</Conference>
+  </Suit>
+  <Suit>
+    <Id>27</Id>
+    <Name>San Francisco 49ers</Name>
+    <Conference>NFC West</Conference>
+  </Suit>
+  <Suit>
+    <Id>28</Id>
+    <Name>St. Louis Rams</Name>
+    <Conference>NFC West</Conference>
+  </Suit>
+  <Suit>
+    <Id>29</Id>
+    <Name>Seattle Seahawks</Name>
+    <Conference>NFC West</Conference>
+  </Suit>
+  <Suit>
+    <Id>30</Id>
+    <Name>Tampa Bay Buccaneers</Name>
+    <Conference>NFC South</Conference>
+  </Suit>
+  <Suit>
+    <Id>31</Id>
+    <Name>Tennessee Titans</Name>
+    <Conference>AFC South</Conference>
+  </Suit>
+  <Suit>
+    <Id>32</Id>
+    <Name>Washington Redskins</Name>
+    <Conference>NFC East</Conference>
+  </Suit>
+</Suits>
